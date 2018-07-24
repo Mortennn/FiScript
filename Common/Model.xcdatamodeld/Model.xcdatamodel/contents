@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="17C88" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Actions" representedClassName=".Actions" syncable="YES">
+        <attribute name="acceptedFileTypes" optional="YES" attributeType="Transformable" customClassName="[String]" syncable="YES"/>
+        <attribute name="actionDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="confirmBeforeExecuting" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="enabled" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="getNotificationWhenExecusionHasFinished" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="id" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" customClassName="Int" syncable="YES"/>
+        <attribute name="imageData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES" customClassName="Data" syncable="YES"/>
+        <attribute name="index" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="script" attributeType="String" syncable="YES"/>
+        <attribute name="shell" attributeType="String" syncable="YES"/>
+        <attribute name="title" attributeType="String" syncable="YES"/>
+        <attribute name="useOnDirectories" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="useOnFiles" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Actions" positionX="108" positionY="261" width="128" height="240"/>
+    </elements>
+</model>
