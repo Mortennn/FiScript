@@ -1,0 +1,22 @@
+PODS:
+  - DevMateKit (1.8.2)
+  - MMWormhole (2.0.0):
+    - MMWormhole/Core (= 2.0.0)
+  - MMWormhole/Core (2.0.0)
+
+DEPENDENCIES:
+  - DevMateKit (~> 1.8)
+  - MMWormhole (~> 2.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DevMateKit
+    - MMWormhole
+
+SPEC CHECKSUMS:
+  DevMateKit: e0bf74589bbbeb0a7b469a75b88667e00e109474
+  MMWormhole: 0cd3fd35a9118b2e2d762b499f54eeaace0be791
+
+PODFILE CHECKSUM: 99dfd12d2dbfa714ee7cdca2e6fe3165f056f9b0
+
+COCOAPODS: 1.5.3
