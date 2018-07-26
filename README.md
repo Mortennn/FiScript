@@ -12,7 +12,7 @@ FiScript is an open source application for OS X, released under the MIT License.
 
 ## License
 
-MacDown is released under the terms of [MIT License](http://opensource.org/licenses/MIT).
+FiScript is released under the terms of [MIT License](http://opensource.org/licenses/MIT).
 
 ## Contributing
 
