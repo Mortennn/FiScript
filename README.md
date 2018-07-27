@@ -15,6 +15,7 @@
  		<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license">
 	</a>
 </p>
+
 ## 🚀 FiScript
 <p align="center">
 	<img height="400" min-width="200" src="https://github.com/Mortennn/FiScript/blob/master/Images/landingNoText.png" alt="desktop-image">
