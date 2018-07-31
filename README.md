@@ -23,6 +23,12 @@
 FiScript is an open source application for MacOS, released under the MIT License. FiScript lets you execute custom scripts on your files/folders from the context menu in Finder.
 
 ## ⚙️ Install
+Easiest way [Homebrew Cask](https://caskroom.github.io/):
+
+	brew cask install https://raw.githubusercontent.com/Mortennn/FiScript/master/fiscript.rb 
+Manual:
+
+
 1. [Download](https://github.com/Mortennn/FiScript/releases/download/v1.0.1/FiScript.dmg), open, and drag the app to the Applications folder.
 2. Since FiScript is not signed; go to **Preferences > Security & Anonymity > allow FiScript**.
 3. If prompted by allowing "FiScript Helper", please accept, since FiScript else won't work properly.
