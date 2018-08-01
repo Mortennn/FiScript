@@ -36,6 +36,9 @@ Manual:
 2. Since FiScript is not signed; go to **Preferences > Security & Anonymity > allow FiScript**.
 3. If prompted by allowing "FiScript Helper", please accept, since FiScript else won't work properly.
 
+## Requirements
+macOS version >= 10.12
+
 ## License
 
 FiScript is released under the terms of [MIT License](http://opensource.org/licenses/MIT).
