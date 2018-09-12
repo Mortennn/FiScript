@@ -46,5 +46,3 @@ FiScript is released under the terms of [MIT License](http://opensource.org/lice
 ## Contributing
 
 Please suggest enhancements as new issue reports on this repository. Also, feel free to share your own scripts, so others can make use of it😀
-
-#### You might also like [Dozer](https://github.com/Mortennn/Dozer), which lets you hide menu bar items to give your Mac a cleaner look.
