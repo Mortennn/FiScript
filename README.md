@@ -25,6 +25,8 @@
 </p>
 FiScript is an open source application for MacOS, released under the MIT License. FiScript lets you execute custom scripts on your files/folders from the context menu in Finder.
 
+###### You might also like [Dozer](https://github.com/Mortennn/Dozer), which lets you hide menubar items to give your Mac a cleaner look..
+
 ## ⚙️ Install
 Easiest way by using [Homebrew Cask](https://caskroom.github.io/):
 
