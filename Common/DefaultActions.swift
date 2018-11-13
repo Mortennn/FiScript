@@ -290,7 +290,7 @@ public class DefaultActions {
             sips -Z 48 Icon.iconset/Icon_16x16@3x.png
             """,
             shell: "/bin/bash",
-            title: "Resize to OSX Icons"
+            title: "Resize to macOS Icons"
         ),
 
         DefaultAction(
@@ -332,7 +332,7 @@ public class DefaultActions {
             sips -Z 40 Icon.iconset/Icon_20x20@2x.png
             """,
             shell: "/bin/bash",
-            title: "Resize to IOS Icons"
+            title: "Resize to iOS Icons"
         ),
         
         DefaultAction(
@@ -350,7 +350,7 @@ public class DefaultActions {
             index: 9,
             script: "/Applications/Sublime\\ Text.app/Contents/SharedSupport/bin/subl $PATH",
             shell: "/bin/bash",
-            title: "Open In Sublime Text"
+            title: "Open in Sublime Text"
         ),
         
         DefaultAction(
@@ -368,7 +368,7 @@ public class DefaultActions {
             index: 10,
             script: "/Applications/Atom.app/Contents/MacOS/Atom $PATH",
             shell: "/bin/bash",
-            title: "Open In Atom"
+            title: "Open in Atom"
         ),
         
         DefaultAction(
@@ -386,7 +386,7 @@ public class DefaultActions {
             index: 11,
             script: "/Applications/Visual\\ Studio\\ Code.app/Contents/Resources/app/bin/code $PATH",
             shell: "/bin/bash",
-            title: "Open In VSCode"
+            title: "Open in VSCode"
         )
     ]
 
