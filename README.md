@@ -35,7 +35,7 @@ Manual:
 
 
 1. [Download](https://github.com/Mortennn/FiScript/releases/download/v1.0.1/FiScript.zip), open, and drag the app to the Applications folder.
-2. Since FiScript is not signed; go to **Preferences > Security & Anonymity > allow FiScript**.
+2. Since FiScript is not signed; go to **Preferences > Security & Anonymity > General > allow FiScript**.
 3. If prompted by allowing "FiScript Helper", please accept, since FiScript else won't work properly.
 
 ## Requirements
