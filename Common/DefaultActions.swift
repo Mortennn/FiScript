@@ -135,7 +135,7 @@ public class DefaultActions {
             tell the current window
             activate current session
             tell current session
-            write text "cd " & $PATH & "; clear"
+            write text "cd " & quoted form of $PATH & "; clear"
             end tell
             end tell
             end tell
@@ -144,7 +144,7 @@ public class DefaultActions {
             tell application "iTerm"
             tell current window
             tell current session
-            write text "cd " & $PATH & "; clear"
+            write text "cd " & quoted form of $PATH & "; clear"
             end tell
             end tell
             end tell
@@ -176,7 +176,7 @@ public class DefaultActions {
                         activate current session
                         launch session "Default Session"
                         tell the last session
-                            write text "cd " & $PATH & "; clear"
+                            write text "cd " & quoted form of $PATH & "; clear"
                         end tell
                     end tell
                 end tell
