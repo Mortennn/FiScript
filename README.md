@@ -34,10 +34,10 @@ Easiest way by using [Homebrew Cask](https://caskroom.github.io/):
 Manual:
 
 1. [Download](https://github.com/Mortennn/FiScript/releases/download/v1.0.1/FiScript.zip), open, and drag the app to the Applications folder.
-2. Since FiScript is not signed; go to **Preferences > Security & Privacy > General > allow FiScript**.
-3. If prompted by allowing "FiScript Helper", please accept, since FiScript else won't work properly.
+2. Since FiScript is not signed; go to **System Preferences > Extensions > check FiScript**.
+3. If prompted by allowing "FiScript Helper", please accept, otherwise FiScript won't work properly.
 
-**If FiScript does not appear in the Finder menu after installation, you might need to restart Finder (Apple Logo > Force Quit > Restart Finder)**
+**If FiScript does not appear in the Finder menu after installation, you might need to restart Finder (Apple Logo > Force Quit... > Finder > Relaunch)**
 
 ## Requirements
 macOS version >= 10.12
