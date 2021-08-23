@@ -28,9 +28,9 @@ FiScript is an open source application for MacOS, released under the MIT License
 ###### You might also like [Dozer](https://github.com/Mortennn/Dozer), which lets you hide menubar items to give your Mac a cleaner look.
 
 ## ⚙️ Install
-Easiest way by using [Homebrew Cask](https://caskroom.github.io/):
+Easiest way by using [Homebrew Cask](https://brew.sh/):
 
-	brew cask install https://raw.githubusercontent.com/Mortennn/FiScript/master/fiscript.rb 
+	brew install --cask fiscript
 Manual:
 
 1. [Download](https://github.com/Mortennn/FiScript/releases/download/v1.0.1/FiScript.zip), open, and drag the app to the Applications folder.
