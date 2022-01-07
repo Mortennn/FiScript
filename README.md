@@ -30,7 +30,7 @@ FiScript is an open source application for MacOS, released under the MIT License
 ## ⚙️ Install
 Easiest way by using [Homebrew Cask](https://caskroom.github.io/):
 
-	brew cask install https://raw.githubusercontent.com/Mortennn/FiScript/master/fiscript.rb 
+	brew install --cask https://raw.githubusercontent.com/Mortennn/FiScript/master/fiscript.rb 
 Manual:
 
 1. [Download](https://github.com/Mortennn/FiScript/releases/download/v1.0.1/FiScript.zip), open, and drag the app to the Applications folder.
